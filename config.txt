@@ -1,0 +1,6 @@
+owner=511361081894109229
+prefix=8
+game=playing|By|Vairos|8Play
+stayinchannel=true
+songinstatus=false
+token=NTQyMDA4NTI4MzQxMzAzMzA3.DznwSw.r6H7kPPwcsqYN9lQR3AH60c1j6E
